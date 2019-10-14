@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import {Link} from "react-router-dom";
 import {getMovies} from "../services/fakeMovieService";
 import {getGenres} from "../services/fakeGenreService";
 import ListGroup from './common/listGroup';
@@ -87,8 +88,10 @@ class Movies extends Component {
 
                 </div>
                 <div className="col">
-                    <p className="float-left">Showing {totalCount} movies in the database.</p>
-
+                    <Link className="btn btn-primary btn-small" to="/movies/new">
+                        New Movie
+                    </Link>
+                    <p className="">Showing {totalCount} movies in the database.</p>
                     <MoviesTable movies={movies}
                                  sortColumn={sortColumn}
                                  onLike={this.handleLike}

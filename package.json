@@ -7,7 +7,8 @@
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
     "lodash": "latest",
-    "react-router-dom": "latest"
+    "react-router-dom": "latest",
+    "joi-browser": "latest"
   },
   "scripts": {
     "start": "react-scripts start",

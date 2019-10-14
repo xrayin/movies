@@ -7,7 +7,7 @@ const ListGroup = props => {
 
     return (
         <div>
-            <ul className="list-group">
+            <ul className="list-group clickable">
 
                 {items.map(item => <li key={item[valueProperty]}
                                        onClick={() => onItemSelect(item)}
