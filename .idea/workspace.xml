@@ -2,42 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="582f927c-9014-40e7-82d6-d5dd635c1bd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/common/form.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/input.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/loginForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/registerForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/select.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/listGroup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/listGroup.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/form.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/movieForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movieForm.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/movies.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movies.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/fakeMovieService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/fakeMovieService.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>pageSiz</find>
-      <find>itemsCount</find>
-      <find>console</find>
-      <find>onHandleLike</find>
-      <find>&lt;a</find>
-      <find>href</find>
-      <find>match</find>
-      <find>account</find>
-      <find>Link</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>onLike</replace>
-      <replace>to</replace>
-      <replace>data</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,6 +81,7 @@
       <workItem from="1562591263303" duration="19975000" />
       <workItem from="1570887794045" duration="1786000" />
       <workItem from="1570973044762" duration="5291000" />
+      <workItem from="1571684518545" duration="7415000" />
     </task>
     <servers />
   </component>
@@ -123,5 +100,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/common/form.jsx</url>
+          <line>24</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
